@@ -1,3 +1,5 @@
+![](images/profile_banner.png)
+
 Permanently-Remote Service Reliability Engineer with a focus on the human side of engineering. 
 
 <details><summary>Expand For Long-Form Bio</summary>
