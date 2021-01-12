@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [2021 Check-in: Professional Development](https://iamevan.me/categories/sre/2021-01-11-2021-check-in-professional-development/)
 - [Psychological Safety and the Only Pyramid Scheme That Works](https://iamevan.me/categories/sre/psychological-safety-and-the-only-pyramid-scheme-that-works/)
 - [Snippet: Benefits of Leastconn Loadbalancing](https://iamevan.me/categories/sre/2020-10-03-snippet-benefits-of-leastconn-loadbalancing/)
 - [Customer Communication During Incidents The How to of Status Page Updates](https://iamevan.me/categories/sre/customer-communication-during-incidents-the-how-to-of-status-page-updates/)
 - [Improving Reliability by Splitting Up API Breaking Changes](https://iamevan.me/categories/sre/improving-reliability-by-splitting-up-api-breaking-changes/)
-- [How to Move From Dublin to Berlin](https://iamevan.me/categories/life/2020-09-20-how-to-move-from-dublin-to-berlin/)
 <!-- BLOG-POST-LIST:END -->
