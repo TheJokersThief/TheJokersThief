@@ -13,11 +13,11 @@ Permanently-Remote Service Reliability Engineer with a focus on the human side o
 [linkedin]: https://www.linkedin.com/in/thejokersthief/
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Inbox Zero How I Handle Email](https://iamevan.me/categories/sre/2021-02-06-inbox-zero-how-i-handle-email/)
-- [2021 Check-in: Professional Development](https://iamevan.me/categories/sre/2021-01-11-2021-check-in-professional-development/)
-- [Psychological Safety and the Only Pyramid Scheme That Works](https://iamevan.me/categories/sre/psychological-safety-and-the-only-pyramid-scheme-that-works/)
-- [Snippet: Benefits of Leastconn Loadbalancing](https://iamevan.me/categories/sre/2020-10-03-snippet-benefits-of-leastconn-loadbalancing/)
-- [Customer Communication During Incidents The How to of Status Page Updates](https://iamevan.me/categories/sre/customer-communication-during-incidents-the-how-to-of-status-page-updates/)
+- [Snippet: Configurable Aync Transport For OpenCensus and Tracing](https://iamevan.me/blog/snippet-configurable-aync-transport-for-opencensus-and-tracing)
+- [Inbox Zero How I Handle Email](https://iamevan.me/blog/inbox-zero)
+- [2021 Check-in: Professional Development](https://iamevan.me/blog/2021-check-in-professional-development)
+- [Psychological Safety and the Only Pyramid Scheme That Works](https://iamevan.me/blog/psychological-safety-and-the-only-pyramid-scheme-that-works)
+- [Snippet: Benefits of Leastconn Loadbalancing](https://iamevan.me/blog/snippet-benefits-of-leastconn-loadbalancing)
 <!-- BLOG-POST-LIST:END -->
 
 ## Featured Blog Posts:
