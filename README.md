@@ -26,7 +26,7 @@ Permanently-Remote Service Reliability Engineer with a focus on the human side o
 [<img align="left" src="images/post3.png" width="21%" />][post3]
 [<img align="left" src="images/post4.png" width="21%" />][post4]
 
-[post1]: https://iamevan.me
-[post2]: https://iamevan.me
-[post3]: https://iamevan.me
-[post4]: https://iamevan.me
+[post1]: https://iamevan.me/blog/psychological-safety-and-the-only-pyramid-scheme-that-works
+[post2]: https://iamevan.me/blog/customer-communication-during-incidents-the-how-to-of-status-page-updates
+[post3]: https://iamevan.me/blog/2021-check-in-professional-development
+[post4]: https://iamevan.me/blog/improving-reliability-by-splitting-up-api-breaking-changes
