@@ -26,6 +26,8 @@ Permanently-Remote Service Reliability Engineer with a focus on the human side o
 [post2]: https://iamevan.me
 [post3]: https://iamevan.me
 [post4]: https://iamevan.me
+
+---
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Inbox Zero How I Handle Email](https://iamevan.me/categories/sre/2021-02-06-inbox-zero-how-i-handle-email/)
