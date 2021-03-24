@@ -13,12 +13,13 @@ Permanently-Remote Service Reliability Engineer with a focus on the human side o
 [linkedin]: https://www.linkedin.com/in/thejokersthief/
 
 ## Featured Blog Posts:
-[<img align="left" src="images/post1.png" width="20%" />][post1]
-[<img align="left" src="images/post2.png" width="20%" />][post2]
-[<img align="left" src="images/post3.png" width="20%" />][post3]
-[<img align="left" src="images/post4.png" width="20%" />][post4]
+[<img align="left" src="images/post1.png" width="25%" />][post1]
+[<img align="left" src="images/post2.png" width="25%" />][post2]
+[<img align="left" src="images/post3.png" width="25%" />][post3]
+[<img align="left" src="images/post4.png" width="25%" />][post4]
 <br />
-<div style="clear:both; display: block; width: 100%;"></div>
+<br />
+<br />
 
 [post1]: https://iamevan.me
 [post2]: https://iamevan.me
