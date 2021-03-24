@@ -13,10 +13,10 @@ Permanently-Remote Service Reliability Engineer with a focus on the human side o
 [linkedin]: https://www.linkedin.com/in/thejokersthief/
 
 ## Featured Blog Posts:
-[<img align="left" src="images/post1.png" width="25%" />][post1]
-[<img align="left" src="images/post2.png" width="25%" />][post2]
-[<img align="left" src="images/post3.png" width="25%" />][post3]
-[<img align="left" src="images/post4.png" width="25%" />][post4]
+[<img align="left" src="images/post1.png" width="23%" />][post1]
+[<img align="left" src="images/post2.png" width="23%" />][post2]
+[<img align="left" src="images/post3.png" width="23%" />][post3]
+[<img align="left" src="images/post4.png" width="23%" />][post4]
 <br />
 <br />
 <br />
