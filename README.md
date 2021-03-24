@@ -13,7 +13,7 @@ Permanently-Remote Service Reliability Engineer with a focus on the human side o
 [linkedin]: https://www.linkedin.com/in/thejokersthief/
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Snippet: Configurable Aync Transport For OpenCensus and Tracing](https://iamevan.me/blog/snippet-configurable-aync-transport-for-opencensus-and-tracing)
+- [Snippet: Configurable Async Transport For OpenCensus and Tracing](https://iamevan.me/blog/snippet-configurable-async-transport-for-opencensus-and-tracing)
 - [Inbox Zero How I Handle Email](https://iamevan.me/blog/inbox-zero)
 - [2021 Check-in: Professional Development](https://iamevan.me/blog/2021-check-in-professional-development)
 - [Psychological Safety and the Only Pyramid Scheme That Works](https://iamevan.me/blog/psychological-safety-and-the-only-pyramid-scheme-that-works)
