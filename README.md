@@ -13,11 +13,11 @@ Permanently-Remote Service Reliability Engineer with a focus on the human side o
 [linkedin]: https://www.linkedin.com/in/thejokersthief/
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Best Practises](https://iamevan.me/blog/cicd-best-practises)
+- [2022 Check-in: Professional Development](https://iamevan.me/blog/2022-check-in)
 - [The Importance Of A Golden Path](https://iamevan.me/blog/the-importance-of-a-golden-path)
 - [2021 Check-in: Professional Development](https://iamevan.me/blog/2021-check-in)
 - [The Incident Response Lifecycle](https://iamevan.me/blog/the-incident-response-lifecycle)
-- [Evan’s Bookmark Dump: Management Crash Course](https://iamevan.me/blog/management-resources)
-- [Snippet: Configurable Async Transport For OpenCensus and Tracing](https://iamevan.me/blog/snippet-configurable-async-transport-for-opencensus-and-tracing)
 <!-- BLOG-POST-LIST:END -->
 
 ## Featured Blog Posts:
