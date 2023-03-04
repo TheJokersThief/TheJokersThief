@@ -13,7 +13,7 @@ Permanently-Remote Service Reliability Engineer with a focus on the human side o
 [linkedin]: https://www.linkedin.com/in/thejokersthief/
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Best Practises](https://iamevan.me/blog/cicd-best-practises)
+- [CI/CD Best Practises: Scaling A Delivery Platform](https://iamevan.me/blog/cicd-best-practises)
 - [2022 Check-in: Professional Development](https://iamevan.me/blog/2022-check-in)
 - [The Importance Of A Golden Path](https://iamevan.me/blog/the-importance-of-a-golden-path)
 - [2021 Check-in: Professional Development](https://iamevan.me/blog/2021-check-in)
